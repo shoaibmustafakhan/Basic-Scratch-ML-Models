@@ -88,7 +88,7 @@ This project successfully implemented a stacking ensemble model for flight delay
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/shoaibmustafakhan/Basic-Scratch-ML-Models)
    ```
 2. Install required dependencies:  
    ```bash
